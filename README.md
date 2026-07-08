@@ -48,14 +48,15 @@ This project is an interactive Power BI dashboard built using Blinkit sales data
 
 ## 📷 Dashboard Preview
 
-_Add your dashboard screenshot here._
+<img width="1415" height="803" alt="blinkit" src="https://github.com/user-attachments/assets/7edbd12d-1be5-456e-b1fa-14c08b0b296c" />
+
 
 ---
 
 ## 📁 Files Included
-- Blinkit Dashboard.pbix
-- Blinkit Data.xlsx
-- dashboard.png
+- Blinkit dashboard.pbix
+- BlinkIT Grocery Data.xlsx
+- blinkit.png
 - README.md
 
 ---
